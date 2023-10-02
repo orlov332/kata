@@ -1,4 +1,4 @@
-package leetcode.arrays101.ReplaceElementsWithGreatestElementOnRightSide;
+package leetcode.Arrays101.ReplaceElementsWithGreatestElementOnRightSide;
 
 class Solution {
     public int[] replaceElements(int[] arr) {

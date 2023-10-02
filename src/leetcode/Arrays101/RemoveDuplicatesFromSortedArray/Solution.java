@@ -1,4 +1,4 @@
-package leetcode.arrays101.RemoveDuplicatesFromSortedArray;
+package leetcode.Arrays101.RemoveDuplicatesFromSortedArray;
 
 class Solution {
     public int removeDuplicates(int[] nums) {

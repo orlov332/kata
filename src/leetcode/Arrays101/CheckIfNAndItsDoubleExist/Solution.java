@@ -1,4 +1,4 @@
-package leetcode.arrays101.CheckIfNAndItsDoubleExist;
+package leetcode.Arrays101.CheckIfNAndItsDoubleExist;
 
 class Solution {
     public boolean checkIfExist(int[] arr) {

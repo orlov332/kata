@@ -1,4 +1,4 @@
-package leetcode.arrays101.FindAllNumbersDisappearedInArray;
+package leetcode.Arrays101.FindAllNumbersDisappearedInArray;
 
 import java.util.ArrayList;
 import java.util.List;

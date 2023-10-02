@@ -1,4 +1,4 @@
-package leetcode.arrays101.MoveZeroes;
+package leetcode.Arrays101.MoveZeroes;
 
 class Solution {
     public void moveZeroes(int[] nums) {

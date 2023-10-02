@@ -1,4 +1,4 @@
-package leetcode.arrays101.HeightChecker;
+package leetcode.Arrays101.HeightChecker;
 
 class Solution {
     public int heightChecker(int[] heights) {

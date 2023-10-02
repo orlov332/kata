@@ -1,4 +1,4 @@
-package leetcode.arrays101.ValidMountainArray;
+package leetcode.Arrays101.ValidMountainArray;
 
 class Solution {
     public boolean validMountainArray(int[] arr) {

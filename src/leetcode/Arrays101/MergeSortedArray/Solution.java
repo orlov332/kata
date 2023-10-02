@@ -1,4 +1,4 @@
-package leetcode.arrays101.MergeSortedArray;
+package leetcode.Arrays101.MergeSortedArray;
 
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {

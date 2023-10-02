@@ -1,4 +1,4 @@
-package leetcode.arrays101.FindNumbersWithEvenNumberofDigits;
+package leetcode.Arrays101.FindNumbersWithEvenNumberofDigits;
 
 import java.util.stream.IntStream;
 

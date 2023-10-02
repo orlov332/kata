@@ -1,4 +1,4 @@
-package leetcode.arrays101.SquaresOfSortedArray;
+package leetcode.Arrays101.SquaresOfSortedArray;
 
 class Solution {
     public int[] sortedSquares(int[] nums) {
