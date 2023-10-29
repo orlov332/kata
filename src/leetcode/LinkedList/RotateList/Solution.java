@@ -13,6 +13,7 @@ package leetcode.LinkedList.RotateList;
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
         if (head == null) return null;
+        if (k == 0) return head;
 
         ListNode tail = head;
         ListNode newTail = head;
@@ -29,10 +30,9 @@ class Solution {
         }
         if (shiftLeg > 0) {
             shiftLeg = k % lenght;
-
             if (shiftLeg == 0) return head;
 
-            shiftLeg--;
+            shiftLeg = lenght - shiftLeg - 1;
             while (shiftLeg > 0) {
                 newTail = newTail.next;
                 shiftLeg--;
