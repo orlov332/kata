@@ -1,4 +1,4 @@
-package leetcode.HashTable.TwoSumIIIDataЫtructureВesign;
+package leetcode.HashTable.TwoSumIIIDataStructureDesign;
 
 import java.util.HashMap;
 import java.util.Map;
